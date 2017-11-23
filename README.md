@@ -10,3 +10,5 @@ ss["b"] = 300
 
 ss.by_score[200:300]
 ```
+
+code base on https://github.com/tailhook/sortedsets , optimize query performance, reduce space size, clear useless function...
