@@ -1,5 +1,15 @@
 # pyzset
 
+like redis sorted set ...
+
+### To Do List
+
+* add sync.lock
+* add ttl expire
+
+
+### example:
+
 ```
 from zset import SortedSet
 
